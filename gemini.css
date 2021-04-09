@@ -1,41 +1,49 @@
 gmni-red {
   color: red;
   font-family: monospace;
+  display: block;
 }
 
 gmni-red-hdr {
   color: red;
   font-weight: bold;
   font-family: monospace;
+  display: block;
 }
 
 gmni-green {
   color: green;
   font-family: monospace;
+  display: block;
 }
 
 gmni-green-hdr {
   color: green;
   font-weight: bold;
   font-family: monospace;
+  display: block;
 }
 
 gmni-blue {
   color: blue;
   font-family: monospace;
+  display: block;
 }
 
 gmni-blue-hdr {
   color: blue;
   font-weight: bold;
   font-family: monospace;
+  display: block;
 }
 
 gmni-nclr {
   font-family: monospace;
+  display: block;
 }
 
 gmni-nclr-hdr {
   font-weight: bold;
   font-family: monospace;
+  display: block;
 }
